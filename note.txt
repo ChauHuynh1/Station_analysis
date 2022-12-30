@@ -1,0 +1,36 @@
+- Pearson R tests:
+	Temperature, Humidity, WindSpeed, Visibility, DewPointTemperature, SolarRadiation, Rainfall, Snowfall
+				vs.
+	CasualUser, RegisteredUser, NewRegisteredUser
+	
+	Research Questions:
+		+ How does Temperature affect the number of casual e-scooter rentee?
+		+ How does Wind Speed affect the number of new registered e-scooter rentee?
+		+ ...
+
+- ANOVA test with Tukey post-hoc test:
+	Seasons vs. CasualUsers
+	Seasons vs. RegisteredUsers
+	Seasons vs. NewRegisteredUsers
+	
+	Research Questions:
+		+ Which season are people most likely to rent an e-scooter?
+		+ Which season are people least likely to rent an e-scooter?
+		+ ...
+
+	Station number vs. CasualUsers
+	Station number vs. RegisteredUsers
+	Station number vs. NewRegisteredUsers
+	
+Research Questions:
+		+ Which station has the most e-scooter rent in a single day?
+		+ Which station has the least e-scooter rent in a single day?
+		+ ...
+
+- Unknown test yet:
+	Temperature, Humidity, WindSpeed, Visibility, DewPointTemperature, SolarRadiation, Rainfall, Snowfall
+		vs.
+	OperationDay
+
+	Research Questions:
+		+ Which factor most likely to cause e-scooter station closure?
