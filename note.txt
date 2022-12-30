@@ -1,0 +1,18 @@
+- Pearson R tests:
+	Temperature, Humidity, WindSpeed, Visibility, DewPointTemperature, SolarRadiation, Rainfall, Snowfall
+				vs.
+	CasualUser, RegisteredUser, NewRegisteredUser
+
+- ANOVA test with Tukey post-hoc test:
+	Seasons vs. CasualUsers
+	Seasons vs. RegisteredUsers
+	Seasons vs. NewRegisteredUsers
+
+	Station number vs. CasualUsers
+	Station number vs. RegisteredUsers
+	Station number vs. NewRegisteredUsers
+
+- Unknown test yet:
+	Temperature, Humidity, WindSpeed, Visibility, DewPointTemperature, SolarRadiation, Rainfall, Snowfall
+		vs.
+	OperationDay
